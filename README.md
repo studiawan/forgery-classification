@@ -12,3 +12,5 @@ Key features:
 - Multi-scenario training: 1×, 2×, and Facebook compression
 - Lightweight and fast inference suitable for forensic image analysis
 - Implemented in PyTorch
+
+Link to model files: https://drive.google.com/drive/folders/148ZHIJfvqAD6lFr_erQS3UApOCtT5rGG?usp=sharing
